@@ -1,3 +1,3 @@
 this is  a control sysytem
-git is free software
+git is hahahahahahha
 but it is easy to study
